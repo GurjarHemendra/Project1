@@ -6,6 +6,10 @@ public class Employee {
     {
         System.out.println("this is static block");
     }
+
+    {
+        System.out.println("non static block");
+    }
     private String name;
     private String sal;
 
