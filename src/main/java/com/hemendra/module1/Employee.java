@@ -8,7 +8,7 @@ public class Employee {
     }
 
     {
-        System.out.println("non static block");
+        System.out.println("non static block updated");
     }
     private String name;
     private String sal;
